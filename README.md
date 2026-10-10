@@ -32,10 +32,30 @@ fn main() {
 }
 ```
 
+<table>
+<tr>
+<td>
+
+#### 🇬🇧 EN
+
+- 🦀 mostly **rust** — cli, bots, backend, stuff
+- 🎓 student, saint-petersburg
+- 🐾 dark theme, anime, cats and clean `cargo clippy`
+- 📚 now learning: `async rust / tokio / axum`
+
+</td>
+<td>
+
+#### 🇷🇺 RU
+
 - 🦀 пишу в основном на **rust** — cli, боты, backend, всякое
 - 🎓 студентка, спб
 - 🐾 люблю тёмную тему, аниме, котов и `cargo clippy` без варнингов
 - 📚 сейчас учу: `async rust / tokio / axum`
+
+</td>
+</tr>
+</table>
 
 ### $ stack
 
